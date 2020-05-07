@@ -1,0 +1,28 @@
+body {
+    font: 20px arial
+}
+.ffooter{
+    background-color: black;
+    color:yellow
+    
+}
+.navbar {
+    background-color:lightseagreen;
+}
+
+.quem-somos {
+    background-color: red;
+    color: white
+}
+.parceiros {
+    background-color: green;
+    color: purple
+}
+.serviços {
+    background-color: pink;
+    color: blue
+}
+
+.margin {
+    padding-top: 8px; padding-bottom: 8px;
+}
